@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+src/node_modules/
+
+# Next.js
+src/.next/
+src/out/
+
+# Build
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+.env.production
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Ruflo runtime
+.claude-flow/data/
+.claude-flow/logs/
+.claude-flow/sessions/
+
+# Temp
+*.tmp
+*.swp
