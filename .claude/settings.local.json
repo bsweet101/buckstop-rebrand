@@ -56,7 +56,8 @@
       "Bash(node scripts/download-final-photos.js)",
       "Bash(node -e \":*)",
       "Bash(gh auth:*)",
-      "Bash(az account:*)"
+      "Bash(az account:*)",
+      "Bash(cat:*)"
     ]
   },
   "enableAllProjectMcpServers": true,
