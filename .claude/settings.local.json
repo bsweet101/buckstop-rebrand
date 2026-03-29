@@ -57,7 +57,8 @@
       "Bash(node -e \":*)",
       "Bash(gh auth:*)",
       "Bash(az account:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(gh run:*)"
     ]
   },
   "enableAllProjectMcpServers": true,
